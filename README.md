@@ -26,11 +26,20 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 ## Authors
+
+```
 Austin Godfrey- <a herf="https://github.com/austintyrome">austintyrome</a>
+```
 
 ## Co-Authors
+
+```
 Dan Jones- <a herf="https://github.com/Djinjones">Djinjones</a>
 Amanda Martin- <a herf="https://github.com/amandajrmartin">amandajrmartin</a>
+```
 
-##Licenses
+## Licenses
+
+```
 This repository is under the MIT licesne.
+```
