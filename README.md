@@ -27,16 +27,14 @@ THEN I find a concise, descriptive title
 ```
 ## Authors
 
-```
-Austin Godfrey- <a herf="https://github.com/austintyrome">austintyrome</a>
-```
+
+* **Austin Godfrey** - [austintyrome](https://github.com/austintyrome)
+
 
 ## Co-Authors
 
-```
-Dan Jones- <a herf="https://github.com/Djinjones">Djinjones</a>
-Amanda Martin- <a herf="https://github.com/amandajrmartin">amandajrmartin</a>
-```
+* **Daniel Jones** - [Djinjones](https://github.com/Djinjones)
+* **Amanda Martin** - [amandajrmartin](https://github.com/amandajrmartin)
 
 ## Licenses
 
