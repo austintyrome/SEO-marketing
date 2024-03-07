@@ -1,6 +1,6 @@
-#Week-1-Challange
+# Week-1-Challange
 
-##SEO-marketing
+## SEO-marketing
 
 ## User Story
 
@@ -26,7 +26,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 ## Authors
-Austin Godfrey- <a herf="#">austintyrome</a>
+Austin Godfrey- <a herf="https://github.com/austintyrome">austintyrome</a>
 
 ## Co-Authors
 Dan Jones- <a herf="https://github.com/Djinjones">Djinjones</a>
